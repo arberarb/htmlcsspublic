@@ -1,3 +1,3 @@
 # Kursi i programimit HTML CSS
-- Mesimi 1 - 6 Mars 2023
-- Mesimi 2 - 13 Mars 2023 (tbd)
+- Mesimi 1 - 18 Prill 2023
+- Mesimi 2 - 24 Prill 2023 (tbd)
